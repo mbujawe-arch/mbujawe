@@ -6,4 +6,4 @@
 - Trouble shooting
 - Effective Communication
 [Link text](mbujawe@ddu.edu.ph)
-<img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/python-logo.png](https://github.com/mbujawe-arch/mbujawe/blob/main/brandname.png?raw=true)" width="500" height="500">
+<img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/python-logo.png](https://github.com/mbujawe-arch/mbujawe/blob/main/brandname.png)" width="500" height="500">
