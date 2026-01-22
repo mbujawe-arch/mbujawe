@@ -5,5 +5,5 @@
 - Programming
 - Trouble shooting
 - Effective Communication
-[Link text](mbujawe@ddu.edu.ph)
+[Email Me](mailto:mbujawe@addu.edu.ph)
 <img src="https://github.com/mbujawe-arch/mbujawe/blob/main/brandname.png?raw=true" width="500" height="500">
